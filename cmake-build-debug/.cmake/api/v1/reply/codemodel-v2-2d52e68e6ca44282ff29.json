@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "coding_test_c__",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-Debug-bbe470b44c3e3a837010.json",
+					"name" : "1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10807::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10807-Debug-ac1782317c55edc1b941.json",
+					"name" : "10807",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10810::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10810-Debug-070defde054720443b09.json",
+					"name" : "10810",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10811::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10811-Debug-ac750906f2a8d75d62ff.json",
+					"name" : "10811",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10813::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10813-Debug-8cc827745fac33ab1f8c.json",
+					"name" : "10813",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10818::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10818-Debug-2bf9b4be170376da5c49.json",
+					"name" : "10818",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10871::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10871-Debug-348503593d21726269a1.json",
+					"name" : "10871",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1546::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1546-Debug-816816f67fb26cd5d2ac.json",
+					"name" : "1546",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-Debug-a3de8f0e974f1a663dea.json",
+					"name" : "2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2562::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2562-Debug-caed808b87ba389722be.json",
+					"name" : "2562",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-Debug-d286fcd264affb257e5a.json",
+					"name" : "3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3048::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3048-Debug-d183e7a349e3f7ee4fe0.json",
+					"name" : "3048",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3052::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3052-Debug-0f085eb40e3104f7d0ab.json",
+					"name" : "3052",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5597::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5597-Debug-226fc89396096b20d55e.json",
+					"name" : "5597",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vertical_read::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vertical_read-Debug-007069efbdfdff00bc0d.json",
+					"name" : "vertical_read",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sj/devel_sj/coding_test_c++/cmake-build-debug",
+		"source" : "/Users/sj/devel_sj/coding_test_c++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
