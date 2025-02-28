@@ -1,6 +1,8 @@
 1152.dSYM/**
 cmake-build-debug/**
-
+*.xml
+*.iml
+*.name
 !.gitignore
 
 !*.cpp
