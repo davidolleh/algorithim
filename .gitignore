@@ -3,6 +3,7 @@ cmake-build-debug/**
 *.xml
 *.iml
 *.name
+CMakeLists.txt
 
 !brutforce/**
 !단계별/**
