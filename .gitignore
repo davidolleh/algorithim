@@ -4,7 +4,8 @@ cmake-build-debug/**
 *.iml
 *.name
 
-!brutforce
-!단계별
+!brutforce/**
+!단계별/**
 !simulation
 !simulation/**
+
