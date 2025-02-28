@@ -3,6 +3,3 @@ cmake-build-debug/**
 *.xml
 *.iml
 *.name
-!.gitignore
-
-!*.cpp
