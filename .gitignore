@@ -3,3 +3,8 @@ cmake-build-debug/**
 *.xml
 *.iml
 *.name
+
+!brutforce
+!단계별
+!simulation
+!simulation/**
