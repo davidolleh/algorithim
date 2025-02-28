@@ -1,2 +1,7 @@
+*
+
 cmake-build-debug/**
-c++연습/1/**
+
+!.gitignore
+
+!*.cpp
